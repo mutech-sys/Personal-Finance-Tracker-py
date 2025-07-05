@@ -16,11 +16,7 @@ A simple command-line application to track personal finances, including income a
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/finance-tracker.git
-   cd finance-tracker
-   ```
+1. Clone the repository
 
 2. Install the required dependencies:
    ```bash
